@@ -1,1 +1,1 @@
-README page for [sample website](https://github.com/akronpow/sample_website/settings)
+This the result form [exercise 1.2.1](https://www.learnenough.com/course/learn_enough_html/html/html_intro/project_start#sec-exercises_project_start)
